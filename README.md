@@ -121,19 +121,3 @@
         </table>
     </body>
 </html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Nayan Anand's Homepage🧠</title>
-</head>
-<body>
-    <h3>My Interests</h3>
-        <ol>
-            <li><a href="https://www.instagram.com/p/CZlJWC9hrp0/"> Drawing</a></li>
-            <li><a href="https://www.youtube.com/watch?v=3UQmMVgswsc"> watching Movies</a></li>
-            <li><a href="https://www.epicsports.me/"> Football</a></li>
-            <li><a href="https://www.youtube.com/watch?v=5qPoRCo_AZQ">star gazing</a> </li>
-        </ol>
-</body>
-</html>
